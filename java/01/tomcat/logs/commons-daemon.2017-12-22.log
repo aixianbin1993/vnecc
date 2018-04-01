@@ -1,0 +1,32 @@
+[2017-12-22 13:59:09] [info]  [13440] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2017-12-22 13:59:09] [info]  [13440] Service Tomcat9 name Apache Tomcat 9.0 Tomcat9
+[2017-12-22 13:59:10] [info]  [13440] Service 'Tomcat9' installed
+[2017-12-22 13:59:10] [info]  [13440] Commons Daemon procrun finished
+[2017-12-22 13:59:25] [info]  [10640] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2017-12-22 13:59:25] [info]  [10640] Updating service...
+[2017-12-22 13:59:26] [info]  [10640] Service 'Tomcat9' updated
+[2017-12-22 13:59:26] [info]  [10640] Update service finished.
+[2017-12-22 13:59:26] [info]  [10640] Commons Daemon procrun finished
+[2017-12-22 13:59:27] [info]  [ 5064] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2017-12-22 13:59:27] [info]  [ 5064] Updating service...
+[2017-12-22 13:59:27] [info]  [ 5064] Service 'Tomcat9' updated
+[2017-12-22 13:59:27] [info]  [ 5064] Update service finished.
+[2017-12-22 13:59:27] [info]  [ 5064] Commons Daemon procrun finished
+[2017-12-22 13:59:28] [info]  [14800] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2017-12-22 13:59:28] [info]  [14800] Updating service...
+[2017-12-22 13:59:28] [info]  [14800] Service 'Tomcat9' updated
+[2017-12-22 13:59:28] [info]  [14800] Update service finished.
+[2017-12-22 13:59:28] [info]  [14800] Commons Daemon procrun finished
+[2017-12-22 13:59:29] [info]  [13012] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2017-12-22 13:59:29] [info]  [13012] Updating service...
+[2017-12-22 13:59:29] [info]  [13012] Service 'Tomcat9' updated
+[2017-12-22 13:59:29] [info]  [13012] Update service finished.
+[2017-12-22 13:59:29] [info]  [13012] Commons Daemon procrun finished
+[2017-12-22 14:02:21] [info]  [ 7908] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2017-12-22 14:02:21] [info]  [ 7908] Running 'Tomcat9' Service...
+[2017-12-22 14:02:21] [info]  [15108] Starting service...
+[2017-12-22 14:02:26] [info]  [15108] Service started in 5206 ms.
+[2017-12-22 14:09:43] [info]  [10684] Stopping service...
+[2017-12-22 14:09:44] [info]  [10684] Service stop thread completed.
+[2017-12-22 14:09:45] [info]  [ 7908] Run service finished.
+[2017-12-22 14:09:45] [info]  [ 7908] Commons Daemon procrun finished

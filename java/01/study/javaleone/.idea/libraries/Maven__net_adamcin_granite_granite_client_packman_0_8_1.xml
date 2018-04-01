@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.adamcin.granite:granite-client-packman:0.8.1">
+    <CLASSES>
+      <root url="jar://D:/mvnlib/net/adamcin/granite/granite-client-packman/0.8.1/granite-client-packman-0.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/mvnlib/net/adamcin/granite/granite-client-packman/0.8.1/granite-client-packman-0.8.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/mvnlib/net/adamcin/granite/granite-client-packman/0.8.1/granite-client-packman-0.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
